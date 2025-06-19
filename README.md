@@ -1,5 +1,4 @@
-
-# RECOMMENDATION SYSTEM
+# $${\color{cyan} RECOMMENDATION  -  SYSTEM }$$
 
 This project demonstrates the implementation of a **Collaborative Filtering-based General-Purpose Recommendation System** using **Matrix Factorization with the SVD algorithm**. It uses a simulated dataset of user-item interactions and evaluates the system using standard metrics.
 
