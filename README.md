@@ -123,3 +123,9 @@ User u1:
 * Matrix factorization with SVD enabled personalized item recommendations.  
 * RMSE and MAE metrics showed acceptable prediction accuracy.  
 * Top-N predictions can be used for any type of content (products, courses, books, etc).  
+
+---
+
+## Output 
+
+![Task-4 Output](https://github.com/user-attachments/assets/9597630e-09df-4c05-b986-de5a1e8d72b6)
